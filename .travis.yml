@@ -9,5 +9,5 @@ deploy:
    organization: HackathonInitio
    space: development
    skip_cleanup: true
-   buildpack: binary
+   buildpack: java_buildpack
    
