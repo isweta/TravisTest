@@ -6,4 +6,5 @@ deploy:
    password: pivotal
    api: https://api.run.pivotal.io
    organization: HackathonInitio
+   space: development
    
