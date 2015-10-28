@@ -3,3 +3,4 @@
 applications:
 - name: HelloWorldSwetaHackathon
 buildpack: java_buildpack
+path: ./src/
