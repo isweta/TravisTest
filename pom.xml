@@ -10,7 +10,7 @@
 	<configuration>
 	  <archive>
 	    <manifest>
-		<mainClass>test.HelloWorld</mainClass>
+		<mainClass>src.HelloWorld</mainClass>
 	    </manifest>
 	  </archive>
 	</configuration>
