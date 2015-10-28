@@ -3,9 +3,5 @@
   <groupId>1</groupId>
   <artifactId>1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <configuration>
-    <archive>
-      <manifestFile>MANIFEST.MF</manifestFile>
-    </archive>
-  </configuration>
+  
 </project>
